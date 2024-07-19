@@ -10,6 +10,8 @@
         "vector": "cpp",
         "array": "cpp",
         "initializer_list": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
     }
 }
