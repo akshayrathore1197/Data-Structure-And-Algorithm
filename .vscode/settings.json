@@ -12,6 +12,7 @@
         "initializer_list": "cpp",
         "utility": "cpp",
         "cmath": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "istream": "cpp"
     }
 }
